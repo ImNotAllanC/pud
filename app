@@ -32,7 +32,7 @@
       },
       {
          "SubInfo":"DITO DOON DITO",
-         "Server":"noload.mikelserver.top",
+         "Server":"noload.janjams.top",
          "Location":"SG"
       }
    ]
