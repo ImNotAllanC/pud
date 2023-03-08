@@ -1,37 +1,37 @@
 {
-   "ConfigVersion":5,
+   "ConfigVersion":6,
    "ConfigUpdateMsg":"WELCOME TO OUR ALL NETWORK NOLOAD",
    "ApkVersion":1,
    "ApkUrl":"https://play.google.com/store/apps/details?id=vpn.jx.provpnudp",
    "ApkMsg":"New Version Detected Fix Some Bugs Fix connecting issue ",
    "Servers":[
       {
-         "SubInfo":"Server 1 prm",
-         "Server":"174.138.30.200",
+         "SubInfo":"SMART KA 01",
+         "Server":"noload.janjams.top",
          "Location":"SG"
       },
       {
-         "SubInfo":"Server 2 prm",
-         "Server":"139.59.116.234",
+         "SubInfo":"TALK N TEXT 02",
+         "Server":"noload.janjams.top",
          "Location":"SG"
       },
       {
-         "SubInfo":"Server 3 prm",
-         "Server":"167.172.86.132",
+         "SubInfo":"SUN CELLULAR 03",
+         "Server":"noload.janjams.top",
          "Location":"SG"
       },
       {
-         "SubInfo":"Server 4 prm",
-         "Server":"167.172.65.123",
+         "SubInfo":"GLOBE TELECOM 04",
+         "Server":"noload.janjams.top",
          "Location":"SG"
       },
       {
-         "SubInfo":"Server 5 prm",
-         "Server":"167.172.65.124",
+         "SubInfo":"TOUCH MOBILE 05",
+         "Server":"noload.janjams.top",
          "Location":"SG"
       },
       {
-         "SubInfo":"Random Servers",
+         "SubInfo":"DITO DOON DITO",
          "Server":"noload.mikelserver.top",
          "Location":"SG"
       }
