@@ -1,5 +1,5 @@
 {
-   "ConfigVersion":6,
+   "ConfigVersion":7,
    "ConfigUpdateMsg":"WELCOME TO OUR ALL NETWORK NOLOAD",
    "ApkVersion":1,
    "ApkUrl":"https://play.google.com/store/apps/details?id=vpn.jx.provpnudp",
