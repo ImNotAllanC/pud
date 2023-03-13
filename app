@@ -1,5 +1,5 @@
 {
-   "ConfigVersion":9,
+   "ConfigVersion":10,
    "ConfigUpdateMsg":"WELCOME TO OUR ALL NETWORK NOLOAD",
    "ApkVersion":1,
    "ApkUrl":"https://play.google.com/store/apps/details?id=vpn.jx.provpnudp",
@@ -27,7 +27,7 @@
       },
       {
          "SubInfo":"TOUCH MOBILE 05",
-         "Server":"noload.janjams.top",
+         "Server":"159.223.42.109",
          "Location":"SG"
       },
       {
